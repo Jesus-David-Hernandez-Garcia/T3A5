@@ -12,9 +12,8 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 2. Consultar estado de cuenta
 3. Retirar efectivo
 4. Otras opciones
-  1. Seguros
-  2. Créditos
-  3. 
+   1. Seguros
+   2. Créditos
 5. Salir
 
 
