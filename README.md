@@ -28,7 +28,17 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 
 - Salida
 ~~~
-
++--------------------------------------------------------+
+| -Bienvenido Panfilo                                    |
+| - Por favor inserte el menu que usted desee realizar   |
+| 1.Consultar saldo                                      |
+| 2.Consultar estado de cuenta                           |
+| 3.Retirar efectivo                                     |
+|  4.Otras opciones                                      |
+| - .Seguros                                             |
+| - .Créditos                                            |
+| - 5.Salir                                              |
++--------------------------------------------------------+
 ~~~
 
 
