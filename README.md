@@ -20,9 +20,9 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 ## Etapa 2. Diseño de la solucion
 
 - Entrada
-  -String numeroTarjeta
-  -int pin
-  Adicionales: nombre
+ 1. String numeroTarjeta
+ 2. int pin
+ 3. Adicionales: nombre
   
 - Proceso:
 
