@@ -44,4 +44,6 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 
 ## Etapa 3. Diseño de la solucion
 
+![](https://github.com/Jesus-David-Hernandez-Garcia/T3A5/blob/main/Clase%20Cuenta.png)
+
 
